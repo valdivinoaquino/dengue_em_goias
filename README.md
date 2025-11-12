@@ -1,6 +1,6 @@
 # 🦟 Dengue em Goiás — Painel de Análise de Notificações e Tendências
 
-<img width="1782" height="997" alt="image" src="https://github.com/user-attachments/assets/31f308bd-39fb-4dac-9874-02fb129cea84" />
+<img width="1788" height="1004" alt="image" src="https://github.com/user-attachments/assets/ac990584-b9d6-4000-b036-ec842062f001" />
 
 ## 📊 Visão Geral
 
@@ -40,6 +40,8 @@ O objetivo é oferecer uma **visão clara e dinâmica** sobre notificações, co
 - **Fonte de dados**: Casos notificados de dengue em Goiás
 - **Mapas**: Camadas geográficas via Microsoft Bing Maps
 
+---
+<img width="1787" height="1002" alt="image" src="https://github.com/user-attachments/assets/9e1cd3a5-72c1-42f6-b51a-d880449b7136" />
 ---
 
 ## 🧮 Principais Medidas DAX
