@@ -110,7 +110,7 @@ SWITCH(
 
 ## 🧩 Autor
 
-**Desenvolvido por [Valdivino Aquino](https://www.linkedin.com/in/valdivinoaquino/)**  
+**Desenvolvido por [Valdivino Aquino]([https://www.linkedin.com/in/valdivinoaquino/](https://www.linkedin.com/in/valdivino-aquino-ti-goiania/)**  
 📧 aquino.sti@hotmail.com 
 💼 DeskBI | Business Intelligence & Data Analytics  
 
