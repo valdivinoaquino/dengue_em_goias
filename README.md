@@ -112,7 +112,7 @@ SWITCH(
 
 ## 🧩 Autor
 
-**Desenvolvido por [Valdivino Aquino](https://www.linkedin.com/in/valdivinoaquino-ti-goiania/)** 
+**Desenvolvido por [Valdivino Aquino](https://www.linkedin.com/in/valdivino-aquino-ti-goiania/)** 
 
 📧 aquino.sti@hotmail.com
 
