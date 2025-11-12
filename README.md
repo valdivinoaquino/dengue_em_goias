@@ -111,8 +111,8 @@ SWITCH(
 ## 🧩 Autor
 
 **Desenvolvido por [Valdivino Aquino](https://www.linkedin.com/in/valdivinoaquino/)**  
-📧 valdivinoaquino@outlook.com  
-💼 VisionIT Consulting | Business Intelligence & Data Analytics  
+📧 aquino.sti@hotmail.com 
+💼 DeskBI | Business Intelligence & Data Analytics  
 
 ---
 
