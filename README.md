@@ -1,9 +1,6 @@
-# dengue_em_goias
-Painel interativo em Power BI para análise da Dengue em Goiás. Apresenta notificações, confirmações, óbitos e taxa de letalidade, com visual limpo, indicadores dinâmicos e mapa interativo. Desenvolvido com DAX e dados públicos do governo de Goiás.
-
 # 🦟 Dengue em Goiás — Painel de Análise de Notificações e Tendências
 
-![Dashboard - Dengue em Goiás](./screenshot.png)
+<img width="1782" height="997" alt="image" src="https://github.com/user-attachments/assets/9fcf8bb3-28f7-4ace-90b9-e1ae348881a9" />
 
 ## 📊 Visão Geral
 
